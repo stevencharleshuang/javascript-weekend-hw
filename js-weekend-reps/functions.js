@@ -206,3 +206,4 @@ const quotes = [
 const randQuote = (arr) => quotes[Math.floor(Math.random() * arr.length)];
 
 console.log(randQuote(quotes));
+
